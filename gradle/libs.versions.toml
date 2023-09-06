@@ -1,0 +1,5 @@
+[versions]
+androidxNavigation = "2.7.1"
+
+[libraries]
+androidx-navigation-compose = { module = "androidx.navigation:navigation-compose", version.ref = "androidxNavigation" }
